@@ -1,5 +1,5 @@
 package exercise;  // Declares the package name as 'exercise'
-
+ 
 import java.util.Scanner;  // Imports the Scanner class for taking input from the user
 
 public class cubeuptoint {  // Declares a public class named 'cubeuptoint'
