@@ -27,15 +27,14 @@ public class sumavgnumof5 {  // Declares a public class named 'sumavgnumof5'
 }
 
 Dry Run: 
+ 
 Initialization:
-
 Declare variables: i, n, sum, avg.
 sum and avg are initialized to 0.
 User Input:
-
 Print "Input the 5 numbers : ".
-Loop Execution:
-
+ 
+ Loop Execution:
 Iterate i from 0 to 4 (inclusive).
 Prompt the user to input a number.
 Assume the user inputs: 2, 4, 6, 8, 10.
