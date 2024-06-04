@@ -1,5 +1,5 @@
 //Write a program in Java to input 5 numbers from the keyboard and find their sum and average.
-
+ 
 package exercise;  // Declares the package name as 'exercise'
 
 import java.util.Scanner;  // Imports the Scanner class for taking input from the user
