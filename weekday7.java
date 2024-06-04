@@ -1,5 +1,5 @@
 //Write a Java program that takes a number from the user and generates an integer between 1 and 7. It displays the weekday name
- 
+  
 package exercise;  // Declares the package name as 'exercise'
 
 import java.util.Scanner;  // Imports the Scanner class for taking input from the user
