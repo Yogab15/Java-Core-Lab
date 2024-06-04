@@ -2,7 +2,7 @@
 package exercise;  // Declares the package name as 'exercise'
 
 import java.util.Scanner;  // Imports the Scanner class for taking input from the user
-
+ 
 public class numberpn  // Declares a public class named 'numberpn'
 {  
     public static void main(String[] args)   // Main method: the entry point of the program
