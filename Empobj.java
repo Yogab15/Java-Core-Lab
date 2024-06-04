@@ -3,7 +3,7 @@ public class Empobj {
     // Declare private instance variables for employee name, job title, and salary
     private String name;
     private String jobTitle;
-    private double salary;
+    private double salary; 
     
     // Constructor to initialize name, job title, and salary
     public Empobj(String name, String jobTitle, double salary) {
