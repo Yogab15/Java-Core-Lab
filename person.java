@@ -1,6 +1,6 @@
 //Write a Java program to create a class called "Person" with a name and age attribute. Create two instances of the "Person" class, set their attributes using the constructor, and print their name and age.
 package exercise;  // Declares the package name as 'exercise'
-
+ 
 public class person {  // Declares a public class named 'person'
     // Private instance variables to store name and age
     private String name;
