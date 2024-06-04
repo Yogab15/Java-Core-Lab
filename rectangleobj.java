@@ -4,7 +4,8 @@ public class rectangleobj {  // Declares a public class named 'rectangleobj'
     private double height;  // Declares a private instance variable 'height' to store the height of the rectangle
     
     // Constructor to initialize width and height
-    public rectangleobj(double width, double height) {
+    public rectangleobj(double width, double height) 
+    {
         this.width = width;  // Assigns the value of 'width' parameter to the instance variable 'width'
         this.height = height;  // Assigns the value of 'height' parameter to the instance variable 'height'
     }
