@@ -2,7 +2,7 @@
 package exercise;  // Declares the package name as 'exercise'
 
 public class naturalnum10 {  // Declares a public class named 'naturalnum10'
-     
+      
     public static void main(String[] args)  // Main method: the entry point of the program
     {     
         int i;  // Declares an integer variable 'i' for the loop counter
